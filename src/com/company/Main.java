@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         System.out.println(0);
         System.out.println(method());
+        System.out.println(1);
     }
 
     private static String method(){
